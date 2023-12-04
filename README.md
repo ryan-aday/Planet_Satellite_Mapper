@@ -6,7 +6,7 @@ To run the Python script: python sat10.py
 Plots the satellites and their trajectories around an Earth.
 
 To run the C++ script:
-g++ sat11.cpp -o sat11
+g++ sat11.cpp -o sat11\n
 ./sat11
 
 Creates .txt files of the trajectories of each satellite in both ECEF and WGS-84 format.
